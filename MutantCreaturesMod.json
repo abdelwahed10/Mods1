@@ -9,11 +9,11 @@
 							  
 							  "NetworkAds":"mix",
 							  "AdmobID":"pub-6107198698389733",	
-                                                          "BannerAdmob":"ca-app-pub-6107198698389733/1070740604",	
+                              "BannerAdmob":"ca-app-pub-6107198698389733/1070740604",	
 							  "InterstitialAdmob":"ca-app-pub-6107198698389733/4088426813",	
 							  
-							  "BannerFacebook":"1074638899639582_1074638962972909",	
-							  "InterstitialFacebook":"1074638899639582_1074638966306242"	
+							  "BannerFacebook":"475968966839174_475969130172491",	
+							  "InterstitialFacebook":"475968966839174_475969700172434"	
 
 								}
 			
@@ -22,41 +22,185 @@
 			
             "map":[
                         { 
-                         "title":"This is Title 1",
-                         "description":"her your description pack",
-                         "link":"https://archive.org/download/minecraft_map/minecraft_map.zip",
-                         "preview1":"https://ia601403.us.archive.org/0/items/k_prev2/k.jpg",
-                         "preview2":"https://ia601403.us.archive.org/0/items/k_prev2/k_prev1.jpg",
-                         "preview3":"https://ia601403.us.archive.org/0/items/k_prev2/k_prev2.jpg"
+                         "title":"Creeperzilla",
+                         "description":"Hi Everyone, Long time no submits🤗 Today i updated this Creeperzilla The Mother Of Creepers Addon to give you very hard or just hard defeating her, Have some tips to not sacrifice your life from Creeperzilla.",
+                         "link":"https://github.com/abdelwahed10/Mods1/raw/main/creeperzilla-beta-1_14-1_16.mcaddon",
+                         "preview1":"https://my.mcpedl.com/storage/addons/3154/images/creeperzilla-addon_4.png",
+                         "preview2":"https://my.mcpedl.com/storage/addons/3154/images/creeperzilla-addon_7.png",
+                         "preview3":"https://my.mcpedl.com/storage/addons/3154/images/creeperzilla-addon_8.png"
                           },
 
                         { 
-                         "title":"This is Title 2",
-                         "description":"her your description pack 2",
-                         "link":"http://45.55.232.94/prisonbreak/PrisonPrison.zip",
-                         "preview1":"http://45.55.232.94/prisonbreak/images/prison_8.jpg",
-                         "preview2":"http://45.55.232.94/prisonbreak/images/prison_7.jpg",
-                         "preview3":"http://45.55.232.94/prisonbreak/images/prison_5.jpg"
+                         "title":"Eternal Adventures The Desert",
+                         "description":"Are you currently bored in your Minecraft world and want to add another challenge that still fits the vanilla theme? If yes, then this is the addon for you. This addon adds  variety of new mobs and 2 bosses. We've got it all from a craftable custom rune used to summon bosses at a shrine to magical scrolls that awake ancient creatures. In the brand new Aquatic Structures Update there are now pirate ships, merchant ships, loot islands, dungeon islands and rafts. Now in the Pirate Update you can find Pirate Villages and go on Pirate Quests for amazing rewards.",
+                         "link":"https://github.com/abdelwahed10/Mods1/raw/main/eternaladvenutresthedesertupdate.mcaddon",
+                         "preview1":"https://my.mcpedl.com/storage/addons/3551/images/eternal-adventures-the-pirate-village-and-quests-update_6.png",
+                         "preview2":"https://my.mcpedl.com/storage/addons/3551/images/eternal-adventures-the-pirate-village-and-quests-update_2.png",
+                         "preview3":"https://my.mcpedl.com/storage/addons/3551/images/eternal-adventures-the-pirate-village-and-quests-update_3.png"
                           },
 						  
 						{ 
-                         "title":"Map PrisonBreak",
-                         "description":"In this map you must break from a super max prison, but don’t worry you have a perfect plan. You will have to do multiple different challenges that you have to complete.",
-                         "link":"http://45.55.232.94/prisonbreak/newPrisonBreak.zip",
-                         "preview1":"http://45.55.232.94/prisonbreak/images/prison-break_1.png",
-                         "preview2":"http://45.55.232.94/prisonbreak/images/prison-break_2.png",
-                         "preview3":"http://45.55.232.94/prisonbreak/images/prison-break_3.png"
+                         "title":"Garuda Boss",
+                         "description":"Old legends speak of the Garuda but some people just believe that Garuda is actually just a myth. This myth is quickly spreading all over the world and now the Garuda has made its way to Minecraft. It's basically a giant bird which replaces the new Phantom mob in Minecraft. It has several new abilities which makes most players an easy prey for it.",
+                         "link":"https://github.com/abdelwahed10/Mods1/raw/main/garuda-boss-addon.mcaddon",
+                         "preview1":"http://mcpedl.com/wp-content/uploads/2018/06/the-garuda-2.jpg",
+                         "preview2":"http://mcpedl.com/wp-content/uploads/2018/06/garuda-1.jpg",
+                         "preview3":"http://mcpedl.com/wp-content/uploads/2018/06/the-garuda-2.jpg"
                           },
 						  
 						{ 
-                         "title":"PS Prison",
-                         "description":"Brought to you by Potato Studios, welcome to Bouncy Castle Correctional Facilities. This is not your standard prison, and it includes a custom escape route, mines with resets, a town to escape to, and even a way to help break out your fellow prisoners.",
-                         "link":"http://45.55.232.94/prisonbreak/PrisonPrison.zip",
-                         "preview1":"http://45.55.232.94/prisonbreak/images/bouncy-castle-correctional-facilities-prison_3.jpg",
-                         "preview2":"http://45.55.232.94/prisonbreak/images/bouncy-castle-correctional-facilities-prison_3.jpg",
-                         "preview3":"http://45.55.232.94/prisonbreak/images/bc79f02ae30159d3ae4313b7dfd63aa1.jpg"
-                          }  
+                         "title":"Godzilla KOTM",
+                         "description":"The Godzilla KOTM Add-on adds 10 huge monsters from the Godzilla KOTM movie with dramatic sounds. It's really a must-play if you like Godzilla and want to experience his wrath in Minecraft!",
+                         "link":"https://github.com/abdelwahed10/Mods1/raw/main/godzillakotm.mcaddon",
+                         "preview1":"https://my.mcpedl.com/storage/addons/2430/images/godzilla-kotm-addon_2.png",
+                         "preview2":"https://my.mcpedl.com/storage/addons/2430/images/godzilla-kotm-addon_3.png",
+                         "preview3":"https://my.mcpedl.com/storage/addons/2430/images/godzilla-kotm-addon_4.png"
+                          },  
 						 
+			            { 
+                         "title":"Boss Hydra",
+                         "description":"This addon adds a new boss in minecraft! The hydra will be hard to kill because of its tanky health and will breath poison gas that will poison you and explode. The boss hydra will destroy all entities!",
+                         "link":"https://github.com/abdelwahed10/Mods1/raw/main/hydra-res.mcaddon",
+                         "preview1":"https://my.mcpedl.com/storage/addons/1567/images/boss-hydra-beta_2.jpg",
+                         "preview2":"https://my.mcpedl.com/storage/addons/1567/images/boss-hydra-beta_2.jpg",
+                         "preview3":"https://my.mcpedl.com/storage/addons/1567/images/boss-hydra-beta_2.jpg"
+                          },  
+						 
+			            { 
+                         "title":"Lava Monster Boss",
+                         "description":"The Lava Monster is a hellish ruler of the underground. But you're a brave warrior who have traveled far lands and now it's time for your final challenge. Your quest is to travel to the very depths of the Overworld and defeat this this horrific monster. Anyone who have tried have failed, so it's up to you to set this right and save the world from otherwise certain doom.",
+                         "link":"https://github.com/abdelwahed10/Mods1/raw/main/lava_monster_vernianlemo.mcaddon",
+                         "preview1":"http://mcpedl.com/wp-content/uploads/2018/02/lava-monster-1.jpg",
+                         "preview2":"http://mcpedl.com/wp-content/uploads/2018/02/lava-monster-5.jpg",
+                         "preview3":"http://mcpedl.com/wp-content/uploads/2018/02/lava-monster-3.jpg"
+                          },  
+						 
+			            { 
+                         "title":"MEGACREEPER",
+                         "description":"An addon that gives the creeper magnificent powers, giving it super strength, a lot of height and a great range of self-exploration when exploding",
+                         "link":"https://github.com/abdelwahed10/Mods1/raw/main/megacreeper-addon.mcaddon",
+                         "preview1":"https://my.mcpedl.com/storage/addons/1649/images/megacreeper-addon_4.png",
+                         "preview2":"https://my.mcpedl.com/storage/addons/1649/images/megacreeper-addon_3.png",
+                         "preview3":"https://my.mcpedl.com/storage/addons/1649/images/megacreeper-addon_9.png"
+                          },  
+						 
+			            { 
+                         "title":"Minotaur Boss",
+                         "description":"Minotaur is a bull with a giant body and is equipped with a hammer as his weapon. He has a lot of health and deals a lot of damage. This add-on is made for players who want a new challenge.",
+                         "link":"https://github.com/abdelwahed10/Mods1/raw/main/minotaur-boss-res.mcpack",
+                         "preview1":"https://my.mcpedl.com/storage/addons/610/images/minotaur-boss_2.png",
+                         "preview2":"https://my.mcpedl.com/storage/addons/610/images/minotaur-boss_3.png",
+                         "preview3":"https://my.mcpedl.com/storage/addons/610/images/minotaur-boss_2.png"
+                          },  
+						 
+			            { 
+                         "title":"Mythology Monsters",
+                         "description":"If just like me you love mythological monsters, you might have wondered what it would be like if you had some of them in Minecraft PE, thinking about that, I made this add-on that adds five mythological monsters with totally unique behaviors.",
+                         "link":"https://github.com/abdelwahed10/Mods1/raw/main/mithologymonsters.mcaddon",
+                         "preview1":"https://my.mcpedl.com/storage/addons/1311/images/mythology-monsters-addon_3.png",
+                         "preview2":"https://my.mcpedl.com/storage/addons/1311/images/mythology-monsters-addon_6.png",
+                         "preview3":"https://my.mcpedl.com/storage/addons/1311/images/mythology-monsters-addon_5.png"
+                          },  
+						 
+			            { 
+                         "title":"More Nether Creatures",
+                         "description":"If you have always thought that nether has few mobs and could have more, then the time to change is now. With this addon nether gets 4 new very dangerous and behavior-rich creatures.",
+                         "link":"https://github.com/abdelwahed10/Mods1/raw/main/more-nether-craeatures.mcaddon",
+                         "preview1":"https://my.mcpedl.com/storage/addons/1347/images/more-nether-creatures-addon_3.png",
+                         "preview2":"https://my.mcpedl.com/storage/addons/1347/images/more-nether-creatures-addon_2.png",
+                         "preview3":"https://my.mcpedl.com/storage/addons/1347/images/more-nether-creatures-addon_4.png"
+                          },  
+						 
+			            { 
+                         "title":"Pesky Chicken Boss",
+                         "description":"Are you done fighting the bosses in Minecraft and want to give some use to your left over Enchanted Golden Apples? The Pesky Chicken Boss is here to solve that problem! If you think it is easy, think again. This is an extremely difficult boss to fight as it has the ability to summon The Pests and Wither Skeletons to fight for it.",
+                         "link":"https://github.com/abdelwahed10/Mods1/raw/main/pesky-chicken-boss-v_0_0_3.mcaddon",
+                         "preview1":"http://mcpedl.com/wp-content/uploads/2018/06/pesky-chicken-4.jpg",
+                         "preview2":"http://mcpedl.com/wp-content/uploads/2018/06/pesky-chicken-2.jpg",
+                         "preview3":"http://mcpedl.com/wp-content/uploads/2018/06/pesky-chicken-4.jpg"
+                          },  
+						 
+			            { 
+                         "title":"Project Godzilla",
+                         "description":"Godzilla and giant monsters are awesome, nuff said. In this addon there will be monsters from the Godzilla series and maybe other universes, updates are hopefully to come, and I hope you guys like it. Also, thanks to SpringyMC for teaching me how to make custom entities.",
+                         "link":"https://github.com/abdelwahed10/Mods1/raw/main/project-godzilla.mcaddon",
+                         "preview1":"https://my.mcpedl.com/storage/addons/2262/images/project-godzilla_2.png",
+                         "preview2":"https://my.mcpedl.com/storage/addons/2262/images/project-godzilla_3.png",
+                         "preview3":"https://my.mcpedl.com/storage/addons/2262/images/project-godzilla_5.png"
+                          },  
+						 
+			            { 
+                         "title":"Sans",
+                         "description":"Sans is one of the powerful bosses in the game called UNDERTALE, has enter into the Minecraft dimension by a portal. He has planned to destroy the whole Minecraft. Now it is up to you to save Minecraft! So get GEARed up for the EPIC BATTLE!",
+                         "link":"https://github.com/abdelwahed10/Mods1/raw/main/sans-boss.mcaddon",
+                         "preview1":"https://my.mcpedl.com/storage/addons/1985/images/sans-addon_2.png",
+                         "preview2":"https://my.mcpedl.com/storage/addons/1985/images/sans-addon_3.png",
+                         "preview3":"https://my.mcpedl.com/storage/addons/1985/images/sans-addon_4.jpg"
+                          },  
+						 
+			            { 
+                         "title":"Titan Creation Sword",
+                         "description":"Are you a fan of titan mod on PC? Do you like Titan Creation Sword Now I bring you it! It is one of the most powerful weapons in MCBE.",
+                         "link":"https://github.com/abdelwahed10/Mods1/raw/main/sw-.mcaddon",
+                         "preview1":"https://my.mcpedl.com/storage/addons/2543/images/titan-creation-sword_2.png",
+                         "preview2":"https://my.mcpedl.com/storage/addons/2543/images/titan-creation-sword_3.png",
+                         "preview3":"https://my.mcpedl.com/storage/addons/2543/images/titan-creation-sword_4.png"
+                          },  
+						 
+			            { 
+                         "title":"The Death Doomsday Wither Skeleton Titan",
+                         "description":"Yes, the Titan with the giant trident, has a wave of portals behind it, its size like Titan, the unfathomable forces, ruler of all the univers. there's the death doomsday skeleton of Titan. It's time to see how powerful he is.",
+                         "link":"https://github.com/abdelwahed10/Mods1/raw/main/thedeathwstitan.mcaddon",
+                         "preview1":"https://my.mcpedl.com/storage/addons/5638/images/the-death-doomsday-wither-skeleton-titan-addon_6.png",
+                         "preview2":"https://my.mcpedl.com/storage/addons/5638/images/the-death-doomsday-wither-skeleton-titan-addon_7.png",
+                         "preview3":"https://my.mcpedl.com/storage/addons/5638/images/the-death-doomsday-wither-skeleton-titan-addon_8.png"
+                          },  
+						 
+			            { 
+                         "title":"Titan 2004",
+                         "description":"This addon adds the mighty Titan to your Minecraft world! This isn't based on anything specific, but I thought this entity would be very cool to play with in a city map, so here it is. In this addon the Titan comes to your Minecraft world in the form of a custom entity that doesn't replace any mob. It's a very powerful entity that has 666 health points, shoots fireballs, is giant and can break almost every block. It attacks everything that's not a monster, but if you manage to defeat it, it will drop a Nether Star.",
+                         "link":"https://github.com/abdelwahed10/Mods1/raw/main/titan-2004-addon-v1.mcaddon",
+                         "preview1":"https://my.mcpedl.com/storage/addons/893/images/titan-2004-addon_8.png",
+                         "preview2":"https://my.mcpedl.com/storage/addons/893/images/titan-2004-addon_9.png",
+                         "preview3":"https://my.mcpedl.com/storage/addons/893/images/titan-2004-addon_11.png"
+                          },  
+						 
+			            { 
+                         "title":"Ashes Skeleton Titan",
+                         "description":"The titan with incredible power, the titan with his iron sword, the titan in the living hell This time I will let you know the infinity power of Ashes Skeleton Titan. He is also able to let your device explode.",
+                         "link":"https://github.com/abdelwahed10/Mods1/raw/main/titan-ashes-skeleton.mcaddon",
+                         "preview1":"https://my.mcpedl.com/storage/addons/4753/images/ashes-skeleton-titan-addon_2.png",
+                         "preview2":"https://my.mcpedl.com/storage/addons/4753/images/ashes-skeleton-titan-addon_3.png",
+                         "preview3":"https://my.mcpedl.com/storage/addons/4753/images/ashes-skeleton-titan-addon_4.png"
+                          },  
+						 
+			            { 
+                         "title":"Titan craft",
+                         "description":"This add-on takes place in the Anime show called Attack on Titan where giants roam the land as humanity is concealed behind walls. As a soldier who has the ability to become a giant yourself.",
+                         "link":"https://github.com/abdelwahed10/Mods1/raw/main/titan-craft.mcaddon",
+                         "preview1":"https://my.mcpedl.com/storage/addons/292/images/titan-craft-addon-11003--11103_2.png",
+                         "preview2":"https://my.mcpedl.com/storage/addons/292/images/titan-craft-addon-11003--11103_3.png",
+                         "preview3":"https://my.mcpedl.com/storage/addons/292/images/titan-craft-addon-11003--11103_2.png"
+                          },  
+						 
+			            { 
+                         "title":"Ultimate Scorpion Boss",
+                         "description":"This Ultimate Scorpion boss is a Strong mob  called ultimate for a reason, It's very strong and very challenging to kill in Survival. It is a Giant Scorpion Boss mob that will kill everything in a matter of Seconds! It's very strong and can resist fire and fall damage.",
+                         "link":"https://github.com/abdelwahed10/Mods1/raw/main/ultimate-scorpion-boss_910964.mcaddon",
+                         "preview1":"https://my.mcpedl.com/storage/addons/4579/images/ultimate-scorpion-boss-addon_2.png",
+                         "preview2":"https://my.mcpedl.com/storage/addons/4579/images/ultimate-scorpion-boss-addon_3.png",
+                         "preview3":"https://my.mcpedl.com/storage/addons/4579/images/ultimate-scorpion-boss-addon_4.png"
+                          },  
+						 
+			            { 
+                         "title":"Warden Concept",
+                         "description":"It add a bunch off new features, mob, and even a new generation for caves. One of the following mob is Warden. Warden is a mob that live in darkest deep cave. It can kill you with 2 hit if you wearing a netherite armor. This add-on will try to replicate the warden as good as possible !",
+                         "link":"https://github.com/abdelwahed10/Mods1/raw/main/warden_concept_add-on.mcaddon",
+                         "preview1":"https://my.mcpedl.com/storage/addons/5542/images/warden-concept-replicas_2.png",
+                         "preview2":"https://my.mcpedl.com/storage/addons/5542/images/warden-concept-replicas_3.png",
+                         "preview3":"https://my.mcpedl.com/storage/addons/5542/images/6ced6d6296119768fc55c58fdf17c7c7.png"
+                          }
+						
 			
                       ]
 
