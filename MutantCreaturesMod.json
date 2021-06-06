@@ -7,9 +7,9 @@
             "AdsController":[
 			                  { 
 							  
-							  "NetworkAds":"mix aaatrfdgbb",
+							  "NetworkAds":"mix",
 							  "AdmobID":"pub-6107198698389733",	
-                              "BannerAdmob":"ca-app-pub-6107198698389733/1070740604",	
+                                                          "BannerAdmob":"ca-app-pub-6107198698389733/1070740604",	
 							  "InterstitialAdmob":"ca-app-pub-6107198698389733/4088426813",	
 							  
 							  "BannerFacebook":"1074638899639582_1074638962972909",	
